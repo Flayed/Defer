@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flayed.Deferment", "Flayed.Deferment.csproj", "{5C3C4E42-8C7D-468C-B270-CA1AE141B008}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flayed.Deferment", "Flayed.Deferment\Flayed.Deferment.csproj", "{5C3C4E42-8C7D-468C-B270-CA1AE141B008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flayed.Deferment.UnitTests", "..\Flayed.Defer.UnitTests\Flayed.Deferment.UnitTests.csproj", "{2A689C71-1684-44AA-9265-AEE8E896D953}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flayed.Deferment.UnitTests", "Flayed.Deferment.UnitTests\Flayed.Deferment.UnitTests.csproj", "{2A689C71-1684-44AA-9265-AEE8E896D953}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
