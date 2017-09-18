@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Flayed.Deferment
 {
-    public class Deferment
+    public class Deferment : IDeferment
     {
         /// <summary>
         /// Collections of tasks created in Deferment

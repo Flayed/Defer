@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Flayed.Deferment
 {
-    public class ConcurrentDictionary<TKey, TValue>
+    internal class ConcurrentDictionary<TKey, TValue>
     {
         private readonly object _lock = new object();
         private readonly Dictionary<TKey, TValue> _dictionary = new Dictionary<TKey, TValue>();
